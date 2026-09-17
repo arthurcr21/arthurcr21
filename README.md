@@ -1,7 +1,7 @@
 
 <img width="1200" height="400" alt="black hole gif 3" src="https://github.com/user-attachments/assets/d984af24-918d-465e-99a8-1f53beba4e10" />
 
-# Olá, eu sou Arthur 👋
+# Opa, Arthur aqui 👋
 
 Estudante de Economia focado em **Análise de Dados**, **Modelagem Financeira** e **Automação**. Desenvolvo soluções práticas integrando dados, negócios e tecnologia.
 
