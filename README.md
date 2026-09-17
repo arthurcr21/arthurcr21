@@ -1,5 +1,5 @@
 
-<img width="736" height="414" alt="black hole gif 2" src="https://github.com/user-attachments/assets/20b515a9-6005-40e9-8d4d-f4e72604b9d3" />
+<img width="1200" height="400" alt="black hole gif 3" src="https://github.com/user-attachments/assets/d984af24-918d-465e-99a8-1f53beba4e10" />
 
 # Olá, eu sou Arthur 👋
 
