@@ -1,4 +1,4 @@
-<img width="616" height="1200" alt="black hole" src="https://github.com/user-attachments/assets/c0d8f179-bc3d-4891-92da-a4253c6831a6" />
+<img width="1200" height="400" alt="black hole 1" src="https://github.com/user-attachments/assets/4e6c7fab-e10f-45de-8354-c1502ee8ae87" />
 
 # Olá, eu sou Arthur 👋
 
